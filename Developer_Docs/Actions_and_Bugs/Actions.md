@@ -1,4 +1,4 @@
-DOCUMENTATION
+DOCUMENTATIONd
 1.	(9/2022) Demonstrate (or develop a new procedure) for how to create the user manual with bookmarks. The prior versions had bookmarks (Bill used his procedure), but the updated user docs do no have bookmarks. This needs to be addressed. See “MYSTRAN-Users-Manual-how to create a PDF.doc” for Bill’s procedure (which may be out of date for a newer version of Acrobat).
 2.	(9/2022) The Install and Run manual may need a TOC update.
 3.	(9/2022) Investigate the Craig-Bampton Demo (See the Preface for further discussion). It is not clear what other problems may be used. This example is relatively specific so it is put in the developer side for now.
